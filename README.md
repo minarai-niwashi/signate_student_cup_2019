@@ -1,5 +1,7 @@
 # signate_student_cup_2019
 
+https://signate.jp/competitions/264
+
 ## データのダウンロード
 `sample.signate.json`ファイルをコピーして`signate.json`ファイルを作成する。
 
